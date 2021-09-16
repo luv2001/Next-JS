@@ -1,0 +1,2 @@
+TODO : getStaticPaths => Working Understanding of getStaticPaths and getStaticProps 
+        For now : getServerSideProps is way EASY
